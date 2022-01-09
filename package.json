@@ -1,0 +1,24 @@
+{
+  "name": "karthiksukumaran.com",
+  "version": "1.0.0",
+  "description": "Sample NodeJS Code Snippet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthiksukumaran/NodeJSCodeSnippets.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Snippet",
+    "HelloWorld"
+  ],
+  "author": "Karthik Sukumaran",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/karthiksukumaran/NodeJSCodeSnippets/issues"
+  },
+  "homepage": "https://github.com/karthiksukumaran/NodeJSCodeSnippets#readme"
+}
